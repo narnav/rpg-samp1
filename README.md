@@ -1,1 +1,3 @@
-"# rpg-samp1" 
+# This program demonstrate how to performe simple calculate in rpg 4
+
+I used ....
